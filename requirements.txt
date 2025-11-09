@@ -3,3 +3,7 @@ nltk
 numpy
 Pillow
 argparse
+streamlit
+torch
+torchvision
+tqdm

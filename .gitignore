@@ -1,2 +1,7 @@
-*.pkl
-app copy.py
+# combined ignore rules
+data/vocab.pkl
+models/decoder-5-3000.pkl
+models/encoder-5-3000.pkl
+venv/
+__pycache__/
+.DS_Store
